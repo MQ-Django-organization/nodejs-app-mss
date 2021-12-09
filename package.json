@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.26.8.201:9980/mithuntechnologies/repository/nodejs-mss/"
+    "registry": "http://clm-pun-uii681:8081/ARDesigns/repository/ARDesigns-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
